@@ -1,2 +1,2 @@
-ssh -p 2220 bandit0@bandit.labs.overthewire.org
-bandit0
+cat readme
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1
