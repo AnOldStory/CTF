@@ -1,0 +1,3 @@
+find . -type f -readable ! -executable -size 1033c
+cat ./maybehere07/.file2
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
