@@ -1,0 +1,8 @@
+mkdir /tmp/thesky
+ln -s /krypton/krypton2/keyfile.dat
+chmod 777 .
+cat ciphertext
+cat /krypton/krypton2/krypton3
+OMQEMDUEQMEK
+caesar 12 letter shift 
+CAESARISEASY

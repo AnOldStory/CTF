@@ -1,0 +1,5 @@
+cat found* | tr " " "\n"| fold -w 1  | sort -d | uniq -dc | sort -n
+
+cat found* | tr " " "\n"| fold -w 3  | sort -d | uniq -dc | sort -n
+
+WELL DONE THE LEVEL FOUR PASSWORD IS BRUTE
