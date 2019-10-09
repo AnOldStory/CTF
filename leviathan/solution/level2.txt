@@ -1,0 +1,6 @@
+mkdir /tmp/thesky
+cd /tmp/thesky
+ln -s ln -s /etc/leviathan_pass/leviathan3
+touch a\ leviathan3
+~/printfile a\ leviathan3
+Ahdiemoo1j

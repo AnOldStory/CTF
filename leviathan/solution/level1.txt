@@ -1,0 +1,9 @@
+gdb 
+-> 0x786573 -> sex
+
+ltrace ./check
+
+-> strcmp("hew","sex");
+
+cat /etc/leviathan_pass/leviathan2
+ougahZi8Ta
